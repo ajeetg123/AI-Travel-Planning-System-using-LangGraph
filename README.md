@@ -44,7 +44,7 @@ Now activate the environment:
 
 
 
-#### YouTube Tuturial (English) -  https://youtu.be/_5XF5CCnbDk
+#### YouTube Tuturial -  https://youtu.be/_5XF5CCnbDk
 
 ---
 
@@ -140,7 +140,7 @@ This will launch the Multi-Agent AI web application.
 
 #### Example Prompt
 
-Plan a complete 7 days Japan trip including flights, hotels and sightseeing under 2 lakhs.
+Plan a complete 7 days Japan trip including flights, hotels and sightseeing under $2000.
 
 
 ---
